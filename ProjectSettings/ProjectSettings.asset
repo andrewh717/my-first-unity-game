@@ -693,7 +693,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 443083e3-34e7-45ba-9d89-f4fd388a24d3
-  projectName: 2D Roguelike
+  projectName: firstUnityGame
   organizationId: andrewh717
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
