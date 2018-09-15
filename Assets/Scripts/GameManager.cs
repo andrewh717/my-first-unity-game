@@ -66,6 +66,7 @@ public class GameManager : MonoBehaviour {
 
     public void GameOver() {
         levelText.text = "After " + level + " days, you starved to death.";
+        levelText.fontSize = 16;
         levelImage.SetActive(true);
         enabled = false;
     }
